@@ -1,2 +1,6 @@
-# tanu-tiwari-dsa-sheet
-Arsh Goyal Dsa Sheet Challenge #CrackInternship #CrackPlacement
+
+Arsh Goyal Dsa Sheet Challenge #CRACKINTERNSHIP #CRACKPLACEMENT
+
+Solutions for DSA Sheet by Arsh #CrackYourPlacementChallenge
+
+https://docs.google.com/spreadsheets/d/1MfxOCfmtprl9qUM6LSgxRcNnG58y5fUdq7aP7ugOHh0/edit#gid=0
